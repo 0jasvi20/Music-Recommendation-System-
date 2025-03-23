@@ -11,3 +11,6 @@
         NumPy
         Pickle (for loading preprocessed data)
         Streamlit (for the interactive UI)
+
+   #SCREENSHOTS
+   
