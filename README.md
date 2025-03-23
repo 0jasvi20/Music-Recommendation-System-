@@ -1,17 +1,13 @@
-Features
-Song-Based Recommendations: Enter a song, and get 5 similar song recommendations.
+1. Features
 
-Pretrained Model: Uses a precomputed similarity matrix for fast recommendations.
+        Song-Based Recommendations: Enter a song, and get 5 similar song recommendations.
+        Pretrained Model: Uses a precomputed similarity matrix for fast recommendations.
+        Simple & Interactive UI: Built with Streamlit for a seamless user experience.
 
-Simple & Interactive UI: Built with Streamlit for a seamless user experience.
+2. Tech Stack
 
-Tech Stack
-Python
-
-Pandas
-
-NumPy
-
-Pickle (for loading preprocessed data)
-
-Streamlit (for the interactive UI)
+        Python
+        Pandas
+        NumPy
+        Pickle (for loading preprocessed data)
+        Streamlit (for the interactive UI)
