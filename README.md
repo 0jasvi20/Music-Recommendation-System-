@@ -13,5 +13,8 @@
         Streamlit (for the interactive UI)
 
    #SCREENSHOTS
+
+   ![image_alt](https://github.com/0jasvi20/Music-Recommendation-System-/blob/main/Screenshot%202025-03-23%20163805.png?raw=true)
+
    ![image_alt]()
    
